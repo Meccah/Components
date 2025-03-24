@@ -10,6 +10,8 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "@glidejs/glide": "^3.7.1",
+    "typed.js": "^2.1.0",
     "vue": "^3.4.29",
     "vue-router": "^4.3.3"
   },
